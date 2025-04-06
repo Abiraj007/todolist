@@ -22,8 +22,6 @@
 > Customize this list according to your project setup:
 
 - **Frontend**: HTML, CSS, JavaScript (or React.js)
-- **Backend**: Node.js + Express (optional)
-- **Database**: MongoDB (or LocalStorage if frontend-only)
 - **Other**: Bootstrap/Tailwind CSS, FontAwesome
 
 ---
